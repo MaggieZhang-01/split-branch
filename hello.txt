@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Add new lines.
 Add new lines for rebase
 Add new lines for rebase..
+Add author.
